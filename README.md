@@ -1,9 +1,8 @@
-## Project Management System Backend(GraphQL) & Frontend(ReactJs)
+## Project Management System Backend(GraphQL)
 This project uses: 
 - graphql
 - express-graphql
 - MongoDB
-- React for the frontend
 
 ### Environment Variables
 In your `.env `  include your postgress **DATABASE_URL**
